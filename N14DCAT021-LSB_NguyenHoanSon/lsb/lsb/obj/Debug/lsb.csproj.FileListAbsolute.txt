@@ -1,0 +1,9 @@
+D:\N14DCAT021\lsb\lsb\lsb\bin\Debug\lsb.exe.config
+D:\N14DCAT021\lsb\lsb\lsb\bin\Debug\lsb.exe
+D:\N14DCAT021\lsb\lsb\lsb\bin\Debug\lsb.pdb
+D:\N14DCAT021\lsb\lsb\lsb\obj\Debug\lsb.csprojResolveAssemblyReference.cache
+D:\N14DCAT021\lsb\lsb\lsb\obj\Debug\Form1.Form1.resources
+D:\N14DCAT021\lsb\lsb\lsb\obj\Debug\lsb.Properties.Resources.resources
+D:\N14DCAT021\lsb\lsb\lsb\obj\Debug\lsb.csproj.GenerateResource.Cache
+D:\N14DCAT021\lsb\lsb\lsb\obj\Debug\lsb.exe
+D:\N14DCAT021\lsb\lsb\lsb\obj\Debug\lsb.pdb
